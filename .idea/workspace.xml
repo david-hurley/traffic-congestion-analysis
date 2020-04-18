@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a47c51b7-f877-4d89-b014-758cdf38a195" name="Default Changelist" comment="" />
+    <list default="true" id="a47c51b7-f877-4d89-b014-758cdf38a195" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../env-can-wx-app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Courses/DJANGO_COURSE_1.xx" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -42,9 +44,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="583" y="207" width="424" height="479" key="FileChooserDialogImpl" timestamp="1586877951991">
+    <state x="583" y="207" width="424" height="479" key="FileChooserDialogImpl" timestamp="1587051087317">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="583" y="207" width="424" height="479" key="FileChooserDialogImpl/1600.0.1920.1080/0.0.1600.900@0.0.1600.900" timestamp="1586877951991" />
+    <state x="583" y="207" width="424" height="479" key="FileChooserDialogImpl/1600.0.1920.1080/0.0.1600.900@0.0.1600.900" timestamp="1587051087317" />
   </component>
 </project>
